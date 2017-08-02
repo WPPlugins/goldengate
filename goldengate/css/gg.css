@@ -1,0 +1,54 @@
+#gg_album_view {
+  padding-top: 10px;
+  padding-right: 10px;
+}
+
+#gg_album_chooser {
+  text-align: right;
+}
+
+.gg_link {
+  clear: both;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.gg_photo_list {
+  float: left;
+}
+
+.gg_photo_thumb {
+  list-style-type: none;
+  float: left;
+  height: 150px;
+  width: 150px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  text-align: center;
+  display: block;
+}
+
+.gg_photo_thumb img {
+}
+
+.gg_photo_thumb a {
+  text-decoration: none;
+}
+
+#gg_photo_details {
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+#gg_photo_details #editoptions {
+  margin-left: 5px;
+}
+
+#gg_photo_title h2 {
+  display: inline;
+}
+
+#gg_photo_title {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
